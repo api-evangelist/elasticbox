@@ -75,6 +75,7 @@ tags:
 - CI/CD
 - Defunct
 - Acquired
+- Developer Tools
 common:
 - type: GitHubOrganization
   url: https://github.com/ElasticBox
